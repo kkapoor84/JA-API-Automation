@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96311" started-at="2017-04-05T06:09:11Z" finished-at="2017-04-05T06:10:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96311" started-at="2017-04-05T06:09:11Z" finished-at="2017-04-05T06:10:47Z">
+      <class name="Test.APITest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:Test.APITest@ae45eb6]" name="initDriver" is-config="true" duration-ms="7846" started-at="2017-04-05T11:39:11Z" finished-at="2017-04-05T11:39:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="courseRequestAPI()[pri:1, instance:Test.APITest@ae45eb6]" name="courseRequestAPI" duration-ms="1275" started-at="2017-04-05T11:39:19Z" finished-at="2017-04-05T11:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- courseRequestAPI -->
+        <test-method status="PASS" signature="openURL()[pri:2, instance:Test.APITest@ae45eb6]" name="openURL" duration-ms="9044" started-at="2017-04-05T11:39:20Z" finished-at="2017-04-05T11:39:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method status="PASS" signature="requestApprovalpage()[pri:3, instance:Test.APITest@ae45eb6]" name="requestApprovalpage" duration-ms="23040" started-at="2017-04-05T11:39:29Z" finished-at="2017-04-05T11:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requestApprovalpage -->
+        <test-method status="PASS" signature="dbQuery()[pri:4, instance:Test.APITest@ae45eb6]" name="dbQuery" duration-ms="56" started-at="2017-04-05T11:39:52Z" finished-at="2017-04-05T11:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbQuery -->
+        <test-method status="PASS" signature="runApiUerEnv()[pri:5, instance:Test.APITest@ae45eb6]" name="runApiUerEnv" duration-ms="135" started-at="2017-04-05T11:39:52Z" finished-at="2017-04-05T11:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runApiUerEnv -->
+        <test-method status="PASS" signature="verifyAddEnv()[pri:6, instance:Test.APITest@ae45eb6]" name="verifyAddEnv" duration-ms="32563" started-at="2017-04-05T11:39:53Z" finished-at="2017-04-05T11:40:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEnv -->
+        <test-method status="PASS" signature="runApiSessionUpdate()[pri:7, instance:Test.APITest@ae45eb6]" name="runApiSessionUpdate" duration-ms="682" started-at="2017-04-05T11:40:25Z" finished-at="2017-04-05T11:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runApiSessionUpdate -->
+        <test-method status="PASS" signature="verifyUpdateEnv()[pri:8, instance:Test.APITest@ae45eb6]" name="verifyUpdateEnv" duration-ms="19425" started-at="2017-04-05T11:40:26Z" finished-at="2017-04-05T11:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUpdateEnv -->
+        <test-method status="PASS" signature="deleteRecord()[pri:0, instance:Test.APITest@ae45eb6]" name="deleteRecord" is-config="true" duration-ms="2198" started-at="2017-04-05T11:40:45Z" finished-at="2017-04-05T11:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRecord -->
+      </class> <!-- Test.APITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
